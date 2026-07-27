@@ -63,3 +63,18 @@ description: 用Markdown梳理已有网站框架，直观展现网站结构。
 - 中国、俄罗斯、科索沃、哈萨克斯坦、乌兹别克斯坦、塔吉克斯坦、越南、马来西亚、伊拉克、印度、孟加拉国、南非、津巴布韦、秘鲁、哥伦比亚等30余个国家和地区……此外，公司还在伊拉克、哈萨克斯坦、孟加拉国、乌兹别克斯坦、津巴布韦等国家设立了当地办事处和售后服务中心。西安瑞泰秉承“以奋斗者为本，以客户为中心”的企业文化和精神，瑞泰科技助您轻松做好砖！
 
 ## 技术团队
+### 人才理念及介绍：
+- 公司坚信人才是企业发展的第一资源；
+- 因此公司在培养本土人才的基础上，引进了意大利高级工程师；
+- 打造了一支专业齐全、经验丰富、求实高效的技术团队；
+- 瑞泰科技现有技术人员41人；
+- 其中意大利专家3人，教授级高工4人，高级工程师5人，工程师20人.
+### 工程师简介：
+- [Mr  Roberto Rebuzzi](https://www.brictec.com/uploadfile/2019/0329/20190329081221938.jpg)
+- [Mr Gianni Spagnolo](https://www.brictec.com/uploadfile/2019/0329/20190329080544986.jpg)
+- [Mr  Renzo Tunesi](https://www.brictec.com/uploadfile/2019/0329/20190329075438172.jpg)
+- [Mr Giuseppe Bosticco](https://www.brictec.com/uploadfile/2019/0409/20190409022054447.jpg)
+- [何峰](https://www.brictec.com/uploadfile/2019/0409/20190409022635583.jpg)
+- [李宗宁](https://www.brictec.com/uploadfile/2019/0329/20190329073605948.jpg)
+- [苏晓辉](https://www.brictec.com/uploadfile/2019/0329/20190329082155264.jpg)
+- [赵周民](https://www.brictec.com/uploadfile/2019/0329/20190329081659183.jpg)
