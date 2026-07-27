@@ -70,11 +70,11 @@ description: 用Markdown梳理已有网站框架，直观展现网站结构。
 - 瑞泰科技现有技术人员41人；
 - 其中意大利专家3人，教授级高工4人，高级工程师5人，工程师20人.
 ### 工程师简介：
-- [Mr  Roberto Rebuzzi](https://www.brictec.com/uploadfile/2019/0329/20190329081221938.jpg)
-- [Mr Gianni Spagnolo](https://www.brictec.com/uploadfile/2019/0329/20190329080544986.jpg)
-- [Mr  Renzo Tunesi](https://www.brictec.com/uploadfile/2019/0329/20190329075438172.jpg)
-- [Mr Giuseppe Bosticco](https://www.brictec.com/uploadfile/2019/0409/20190409022054447.jpg)
-- [何峰](https://www.brictec.com/uploadfile/2019/0409/20190409022635583.jpg)
-- [李宗宁](https://www.brictec.com/uploadfile/2019/0329/20190329073605948.jpg)
-- [苏晓辉](https://www.brictec.com/uploadfile/2019/0329/20190329082155264.jpg)
-- [赵周民](https://www.brictec.com/uploadfile/2019/0329/20190329081659183.jpg)
+- [Mr  Roberto Rebuzzi](https://www.brictec.com/uploadfile/2019/0329/20190329081221938.jpg): ESc公司 电气机械工程设计--干燥室设计师
+- [Mr Gianni Spagnolo](https://www.brictec.com/uploadfile/2019/0329/20190329080544986.jpg): ESc公司 电气自动化工程师
+- [Mr  Renzo Tunesi](https://www.brictec.com/uploadfile/2019/0329/20190329075438172.jpg): ESc公司 土建工程师--窑炉设计师
+- [Mr Giuseppe Bosticco](https://www.brictec.com/uploadfile/2019/0409/20190409022054447.jpg): ESc公司机械工程师 -- 原料制备设备和挤出机设计师 
+- [何峰](https://www.brictec.com/uploadfile/2019/0409/20190409022635583.jpg): 项目经理
+- [李宗宁](https://www.brictec.com/uploadfile/2019/0329/20190329073605948.jpg): 项目现场经理
+- [苏晓辉](https://www.brictec.com/uploadfile/2019/0329/20190329082155264.jpg): 工艺工程师
+- [赵周民](https://www.brictec.com/uploadfile/2019/0329/20190329081659183.jpg): 教授级高级工程师
