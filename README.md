@@ -8,11 +8,11 @@ description: 用Markdown梳理已有网站框架，直观展现网站结构。
 - BRICTEC ENGINEERING - help you easily make bricks!
 - 西安瑞泰建材科技有限公司成立于2011年，聘请意大利高级工程师并联合国内专家打造了一支欧洲技术与中国技术相结合的强大技术团队，为客户提供各种砖瓦行业的解决方案，除了普通砖，烧结砌块的解决方案，还包括装饰砖、干挂外墙砖、清水墙砖、铺路砖、压制烧结砖等的解决方案....
 ## [Product](https://www.brictec.com/product/gongchengzixunyusheji/)
-- 原料处理设备
-- 砖机挤出机
-- 自动化设备
-- 隧道窑
-- 打包设备
+- [原料处理设备](https://www.brictec.com/product/gongchengzixunyusheji/)
+- [砖机挤出机](https://www.brictec.com/product/regongshebei/)
+- [自动化设备](https://www.brictec.com/product/automation/)
+- [隧道窑](https://www.brictec.com/product/gczcb/)
+- [打包设备](https://www.brictec.com/product/dabaoshebei/)
 ## [project case](https://www.brictec.com/gongchengzhanshi/gcal/)
 - [2026MUSK项目](https://www.brictec.com/gongchengzhanshi/gcal/292.html)
 - [2025伊拉克KTB项目](https://www.brictec.com/gongchengzhanshi/gcal/241.html)
@@ -21,10 +21,10 @@ description: 用Markdown梳理已有网站框架，直观展现网站结构。
 - [2022浙江绿展项目](https://www.brictec.com/gongchengzhanshi/gcal/155.html)
 - [2022哈萨克斯坦WG项目](https://www.brictec.com/gongchengzhanshi/gcal/104.html)
 ## [FAQ](https://www.brictec.com/faq/)
-- 砖厂对辊机辊筒耐磨性提升常见FAQ
-- 隧道窑窑车常见问题FAQ（窑车砌筑工艺问题）
-- 隧道窑窑车常见问题FAQ（车轮与轴承装配问题）
-- 烧结砖厂窑车建造5条FAQ（施工建造阶段专用）
+- [砖厂对辊机辊筒耐磨性提升常见FAQ](https://www.brictec.com/faq/317.html)
+- [隧道窑窑车常见问题FAQ（窑车砌筑工艺问题）](https://www.brictec.com/faq/314.html)
+- [隧道窑窑车常见问题FAQ（车轮与轴承装配问题）](https://www.brictec.com/faq/311.html)
+- [烧结砖厂窑车建造5条FAQ（施工建造阶段专用）](https://www.brictec.com/faq/309.html)
 
 # 关于瑞泰
 ## 企业概况
