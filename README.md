@@ -14,12 +14,12 @@ description: 用Markdown梳理已有网站框架，直观展现网站结构。
 - 隧道窑
 - 打包设备
 ## [project case](https://www.brictec.com/gongchengzhanshi/gcal/)
-- 2026MUSK项目
-- 2025伊拉克KTB项目
-- 2024马来西亚CBT项目
-- 2023伊拉克Najmadin750TP砖厂项目
-- 2022浙江绿展项目
-- 2022哈萨克斯坦WG项目
+- [2026MUSK项目](https://www.brictec.com/gongchengzhanshi/gcal/292.html)
+- [2025伊拉克KTB项目](https://www.brictec.com/gongchengzhanshi/gcal/241.html)
+- [2024马来西亚CBT项目](https://www.brictec.com/gongchengzhanshi/gcal/240.html)
+- [2023伊拉克Najmadin750TP砖厂项目](https://www.brictec.com/gongchengzhanshi/gcal/239.html)
+- [2022浙江绿展项目](https://www.brictec.com/gongchengzhanshi/gcal/155.html)
+- [2022哈萨克斯坦WG项目](https://www.brictec.com/gongchengzhanshi/gcal/104.html)
 ## [FAQ](https://www.brictec.com/faq/)
 - 砖厂对辊机辊筒耐磨性提升常见FAQ
 - 隧道窑窑车常见问题FAQ（窑车砌筑工艺问题）
