@@ -1,0 +1,4 @@
+# Ensure markdown files are treated as UTF-8 and LF
+*.md text eol=lf working-tree-encoding=UTF-8
+docs/** text eol=lf working-tree-encoding=UTF-8
+README.md text eol=lf working-tree-encoding=UTF-8
